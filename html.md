@@ -116,3 +116,7 @@ If you'd like to change the size of an image, you can set the `width` and/or `he
 For our first exercise, let's create a webpage that looks like the one below. Be sure to give your webpage a title!
 
 ![](.gitbook/assets/html-exercise.png)
+
+### Extra Credit
+
+Experiment with some more elements (`<strong>`, `<video>`, `<i>`)
