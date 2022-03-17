@@ -17,7 +17,7 @@ When we visit a webpage such as http://google.com, our web browser is asking the
 
 HTML contains the contents of the website. On google.com this is the google logo, search box and some buttons.
 
-CSS contains information on how to style the HTML. This is where each element (logo, box, buttons) belong and what they look like (color, size, etc).
+CSS contains information on how to style the HTML. This is where each element (logo, box, buttons) belongs and what they look like (color, size, etc).
 
 Javascript controls the interactivity of the webpage. In this case, it controls what happens when you tap the 'Search' button.&#x20;
 
