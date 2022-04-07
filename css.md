@@ -51,7 +51,7 @@ To select an id you use the `#` symbol in front of the id `#some-id`. To select 
 
 ### Color and Size
 
-Some of the most common styles involve color and size. If you want to change the color of text you use `font-color`. If you want to change the color of the entire element you use `background-color`.&#x20;
+Some of the most common styles involve color and size. If you want to change the color of text you use `color`. If you want to change the color of the entire element you use `background-color`.&#x20;
 
 You can also change the `font-size`, the `width` and the `height` of an element. You can also give an element a `border`.&#x20;
 
@@ -60,7 +60,7 @@ All of these properties have different possible values. Here is an example of ho
 ```
 div {
   font-size: 16px;
-  font-color: red;
+  color: red;
   background-color: blue;
   width: 200px;
   height: 200px;
@@ -82,7 +82,7 @@ div {
   top: 50px;
   right: 50px;
   font-size: 16px;
-  font-color: red;
+  color: red;
   background-color: blue;
   width: 200px;
   height: 200px;
@@ -102,7 +102,7 @@ div {
   top: 50px;
   right: 50px;
   font-size: 16px;
-  font-color: red;
+  color: red;
   background-color: blue;
   width: 200px;
   height: 200px;
