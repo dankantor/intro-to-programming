@@ -4,10 +4,10 @@ In introduction to Programming, we will learn how to write code for a webpage us
 
 At the end of this course, a student should be able to create a webpage by themselves.
 
-* Week 1 - HTML
-* Week 2 - CSS
-* Week 3 - Javascript
-* Week 4 - More Javascript
+* [Week 1 - HTML](html.md)
+* [Week 2 - CSS](css.md)
+* [Week 3 - Javascript](javascript.md)
+* [Week 4 - More Javascript](more-javascript.md)
 * Week 5 - Final Project Prep
 * Week 6 - Final Project
 
